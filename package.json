@@ -1,7 +1,7 @@
 {
-  "name": "react-loader",
+  "name": "react-loader-conrad-labs",
   "description": "React component that displays a spinner via spin.js until your component is loaded",
-  "version": "2.4.7",
+  "version": "0.0.1",
   "main": "lib/react-loader.js",
   "scripts": {
     "build": "./node_modules/.bin/jsx -x jsx lib lib",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/quickleft/react-loader"
+    "url": "https://github.com/AwaisKamran/react-loader-conrad-labs"
   },
   "keywords": [
     "react",
@@ -30,9 +30,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/quickleft/react-loader/issues"
+    "url": "https://github.com/AwaisKamran/react-loader-conrad-labs/issues"
   },
-  "homepage": "https://github.com/quickleft/react-loader",
+  "homepage": "https://github.com/AwaisKamran/react-loader-conrad-labs",
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0",
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
